@@ -2,15 +2,13 @@
 
 The Event Booking System App is a user-friendly platform that enables users to browse, book, and manage event tickets with ease. This app aims to streamline the process of event ticket reservations, offering a seamless experience from discovery to booking confirmation.
 
-## Getting Started
+## Features
+**Event Discovery**: Browse through a variety of events, categorized by type, date, and location.
+**User Registration and Login**: Secure user authentication and profile management.
+**Booking Management**: Easily book tickets for events and view booking history.
+**Event Details**: Detailed information about events including date, time, venue, and description.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies used
+**Frontend**: Flutter, Figma, JavaScript
+**Backend**: Node.js, Rest API, Hive, RabbitMQ
+**Database**: MySql
