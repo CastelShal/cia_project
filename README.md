@@ -1,6 +1,6 @@
-# bookmyshow
+# bookmyevent
 
-A new Flutter project.
+The Event Booking System App is a user-friendly platform that enables users to browse, book, and manage event tickets with ease. This app aims to streamline the process of event ticket reservations, offering a seamless experience from discovery to booking confirmation.
 
 ## Getting Started
 
